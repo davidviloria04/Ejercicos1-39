@@ -1,4 +1,4 @@
-# Ejercicos1
+# Ejercicio1
 import javax.swing.JOptionPane;
 
 public class BasicOperations
